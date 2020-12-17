@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139549499072",
+    "firebase_url": "https://diary-project-ef7ad.firebaseio.com",
+    "project_id": "diary-project-ef7ad",
+    "storage_bucket": "diary-project-ef7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139549499072:android:c3f660ca6191dc13809725",
+        "android_client_info": {
+          "package_name": "com.example.diary_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139549499072-aao66kcqnq3orh4as0ve34amp2el80ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KO2Sm5NCLC8W8vIXJd6w4ofwNEpDZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139549499072-aao66kcqnq3orh4as0ve34amp2el80ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
